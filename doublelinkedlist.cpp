@@ -167,6 +167,6 @@ public:
                 }
 
                 // Step 2: Traverse backward
-                cout << "\n"
+            
             }
     
